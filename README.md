@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm a Software Tester 👋
 
-<!--
-**MahmoudEzzTest/MahmoudEzzTest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about ensuring software quality and have experience in various testing tools and methodologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Manual Testing**
+- **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools 
+- **Postman**
+- **Trello**
+  
+## Connect with me
+<a href="https://linkedin.com/in/mahmoud-ezz-ezz" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Ezz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
+
+Feel free to explore my repositories and reach out if you have any questions!
